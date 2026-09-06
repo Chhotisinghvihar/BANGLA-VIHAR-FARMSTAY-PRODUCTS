@@ -1,4 +1,4 @@
-name: Build Bangla Vihar APK
+name: Build Bangla Vihar Farmstay Products APK
 
 on:
   workflow_dispatch:
